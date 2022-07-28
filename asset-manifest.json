@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/constructor-deploy/static/css/main.b74e6202.css",
+    "main.js": "/constructor-deploy/static/js/main.ca338191.js",
+    "index.html": "/constructor-deploy/index.html",
+    "main.b74e6202.css.map": "/constructor-deploy/static/css/main.b74e6202.css.map",
+    "main.ca338191.js.map": "/constructor-deploy/static/js/main.ca338191.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b74e6202.css",
+    "static/js/main.ca338191.js"
+  ]
+}
